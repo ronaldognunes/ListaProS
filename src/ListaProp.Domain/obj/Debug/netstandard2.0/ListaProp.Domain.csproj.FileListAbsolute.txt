@@ -1,0 +1,9 @@
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\bin\Debug\netstandard2.0\ListaProp.Domain.deps.json
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\bin\Debug\netstandard2.0\ListaProp.Domain.dll
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\bin\Debug\netstandard2.0\ListaProp.Domain.pdb
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.csprojAssemblyReference.cache
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.AssemblyInfoInputs.cache
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.AssemblyInfo.cs
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.dll
+C:\Users\ronaldo\Desktop\estudo\ListaProApi\src\ListaProp.Domain\obj\Debug\netstandard2.0\ListaProp.Domain.pdb
